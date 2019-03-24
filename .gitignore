@@ -1,0 +1,4 @@
+attack
+*.o
+.idea
+os-linux-assembly
